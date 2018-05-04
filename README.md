@@ -14,7 +14,7 @@ Make sure you have [Python 3](https://www.python.org/downloads/) installed, then
 <br/>
 
 ## Usage 
-(After the extraction of the Images from the PDF documents using [this.](https://www.google.com/url?q=https%3A%2F%2Fwww.systutorials.com%2Fdocs%2Flinux%2Fman%2F1-pdfimages%2F&sa=D))
+(After the extraction of the Images from the PDF documents using [this.](https://github.com/arpitjainds/Extract-PDF-Images))
 
 ### Prepare the image data sets ([Dataset](https://drive.google.com/open?id=15c5L_29GytEf60fj1zgO2d3zJZIOVXpp))
 In order to start the transfer learning process, a folder named ``training_dataset`` needs to be created in the root of the project folder. This folder will contain the image data sets for all the subjects, for whom the classification is to be performed.
