@@ -4,7 +4,7 @@ An image classification program that uses Google's Machine Learning library, [Te
 This model has been pre-trained for the [ImageNet](http://image-net.org/) Large Visual Recognition Challenge using the data from 2012, and it can differentiate between 1,000 different classes, like Dalmatian, dishwasher etc.
 The program applies Transfer Learning to this existing model and re-trains it to classify a new set of images.
 
-This is a generic setup and can be used to classify almost any kind of image. This repository classifies four image data sets - 2D-line, 2D-Pie, 2D-Bar, 3D-Plots and returns a prediction score denoting the possibility of it being in a particular class.
+This repository classifies four image data sets - 2D-line, 2D-Pie, 2D-Bar, 3D-Plots and returns a prediction score denoting the possibility of it being in a particular class.
 
 <br/>
 
