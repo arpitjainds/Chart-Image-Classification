@@ -48,7 +48,7 @@ $ bash train.sh
 ```
 This script installs the ``Inception`` model and initiates the re-training process for the specified image data sets.
 
-Once the process is complete, it will return a training accuracy somewhere between ``85% - 100%``.
+Once the process is complete, it will return a training accuracy somewhere between ``85% - 95%``.
 
 The ``training summaries``, ``retrained graphs`` and ``retrained labels`` will be saved in a folder named ``tf_files``.
 
