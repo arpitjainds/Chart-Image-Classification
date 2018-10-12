@@ -10,7 +10,6 @@ An image classification program that uses Google's Machine Learning library, [Te
   
 ## Installation
 Make sure you have [Python 3](https://www.python.org/downloads/) installed, then install [Tensorflow](https://www.tensorflow.org/install/) on your system, and clone this repo.
-
 <br/>
 
 ## Usage 
