@@ -1,11 +1,6 @@
 # Chart Image Classification Using Inception Model
 An image classification program that uses Google's Machine Learning library, [Tensorflow](https://www.tensorflow.org/) and a pre-trained Deep Learning Convolutional Neural Network model called Inception. This repository classifies four image data sets - 2D-line, 2D-Pie, 2D-Bar, 3D-Plots and returns a prediction score denoting the possibility of it being in a particular class.
 <br/>
-
-### DESIGNED BY
-
->- Arpit Jain<BR>
->- Gautam Yadav<BR>
   
 ## Installation
 Make sure you have [Python 3](https://www.python.org/downloads/) installed, then install [Tensorflow](https://www.tensorflow.org/install/) on your system, and clone this repo.
